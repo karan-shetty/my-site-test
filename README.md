@@ -1,6 +1,6 @@
-# my-site-test
+# Paul Beenis Ltd
 testing a webpage with gh-pages
 
 
-Look at all this cool shit
+Look at all my dank projects
 
